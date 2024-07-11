@@ -1,7 +1,11 @@
 node_modules/
 backup/
 umd/
-urdf/
 .parcel-cache/
 .cache/
 test/
+# Ignore the urdf folder in the root
+/urdf/
+
+# Do not ignore the urdf folder inside test
+!test/urdf/
