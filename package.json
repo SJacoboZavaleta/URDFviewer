@@ -13,12 +13,12 @@
   "license": "Apache-2.0",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SJacoboZavaleta/urdf_viewer.git"
+    "url": "git+https://github.com/SJacoboZavaleta/URDFviewer.git"
   },
   "bugs": {
-    "url": "https://github.com/SJacoboZavaleta/urdf_viewer/issues"
+    "url": "https://github.com/SJacoboZavaleta/URDFviewer/issues"
   },
-  "homepage": "https://github.com/SJacoboZavaleta/urdf_viewer#readme",
+  "homepage": "https://github.com/SJacoboZavaleta/URDFviewer#readme",
   "keywords": [
     "javascript",
     "threejs",
